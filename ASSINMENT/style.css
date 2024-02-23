@@ -1,0 +1,42 @@
+.a1 {
+    background-color: aqua;
+    border: 2px solid black;
+    text-align: right;
+    margin: 16px;
+}
+#a3 {
+    background-color: blue;
+    border: 2px solid black;
+    text-align: center;
+    margin: 16px;
+}
+
+#a4 {
+    background-color: blueviolet;
+    border: 2px solid black;
+    text-align: center;
+    margin: 16px;
+}
+
+#a5 {
+    background-color: burlywood;
+    border: 2px solid black;
+    margin: 16px;
+  
+
+
+
+}
+
+#a6 {
+    background-color: cadetblue;
+    border: 2px solid black;
+    height: 300px;
+    width: 300px;
+    margin: 16px;
+}
+#a8{
+    border: 8px solid black;
+    color: blueviolet ;
+    background-color: aquamarine;
+}
